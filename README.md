@@ -5,10 +5,10 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-software engineering is the systematic designing, developing, deploying and maintaining software systems. Software engineering ensures there is high quality software by following the best practices. it helps improe security and reliability of software systems. 
+software engineering is the systematic designing, developing, deploying and maintaining software systems. Software engineering ensures there is high quality software by following the best practices. it helps improve security and reliability of software systems. 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-The term software engineering was born in 1968 n a conference n germany. The conference created guidlines and the best practices to be applied in software engineering. It laid foundation for formal methodologies.
+The term software engineering was born in 1968 n a conference n germany. The conference created guidelines and the best practices to be applied in software engineering. It laid foundation for formal methodologies.
 The agile manifesto 2001 was published by software development practitioners. It encouraged the use of document driven and heavyweight software development processes.
 Structured programming i the 1970s anad 1980s to help make it easy to maintain and understand code. It led to better coding standards and better methodologies.
 
